@@ -1,5 +1,7 @@
 # applauseTest
 Step1: git clone this repo
+
+
 Step2: create a virtual environment:
 On macOS and Linux:
   `python3 -m venv env`
